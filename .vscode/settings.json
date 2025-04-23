@@ -1,3 +1,4 @@
 {
-    "vetur.validation.template": false
+    "vetur.validation.template": false,
+    "deepseek.apikey": "sk-eedada2085364cd9b476a864f3766b91"
 }
