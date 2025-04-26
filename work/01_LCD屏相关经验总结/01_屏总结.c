@@ -1,6 +1,4 @@
-# 屏驱动
-## 1、推纯色相关代码
-````C
+//1、推纯色相关代码
 /*******************************************************************************
 * Function Name  : lcd_initTab_config
 * Description    : lcd inittab config
@@ -111,5 +109,4 @@ void lcd_initTab_config(u32 *tab)
 #endif
 //chenjianshun--------------------------end
 }
-````
 
