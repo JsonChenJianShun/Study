@@ -1,0 +1,43 @@
+windows:
+win + 1:打开文件夹
+win + 2:打开升级工具
+win + 3:打开计算机
+win + 4:打开notpad++
+win + 5:打开xshell
+win + 6:打开浏览器
+Win + ↑:最大化窗口
+Alt + F4:关闭窗口
+Ctrl + 1:打开D:\ChenJianShun\
+Ctrl + 1:打开E:\ChenJianShun\01_SDK\
+
+edage:
+Ctrl + T - 打开一个新标签页。
+Ctrl + W（或 Ctrl + F4）- 关闭当前标签页。
+Ctrl + Tab - 切换到下一个标签页。使用 Ctrl + Shift + Tab 切换到前一个标签页。
+Ctrl + D - 把当前网站添加到收藏夹或书签。
+Ctrl + H - 打开历史记录面板。
+
+vscode 
+Ctrl+Shift+F 全局搜索 
+Ctrl+Shift+E 打开目录
+Ctrl+Q 转到文件
+Ctrl+w 上一个（workbench.action.quickOpenNavigatePreviousInFilePicker）
+Ctrl+e 下一个（workbench.action.quickOpenNavigateNextInFilePicker）
+
+Xshell
+Alt + c 断开连接
+Ctrl + Shift + R 重新连接
+Ctrl + Shift + L 清屏
+Ctrl + w 上一个
+Ctrl + e 下一个
+
+notepad++
+Ctrl + F - 全局搜索
+Ctrl + H - 替换
+Ctrl + F3 - 查找下一个
+Ctrl + Shift + F3 - 查找上一个
+
+git
+Ctrl + l - 清屏
+Ctrl+Insert - 复制
+Shift+Insert - 粘贴
